@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 采集缓存与原始大文件（不入库）
+榜单生成/output/images/
+榜单生成/reviews/
+榜单生成/albums/
+*.log
