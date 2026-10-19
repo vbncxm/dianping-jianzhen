@@ -1,5 +1,8 @@
 # 滇评鉴真 · 智能评论净化系统
 
+> **在线访问**
+> [春城金鉴榜 · 分区榜单](https://vbncxm.github.io/dianping-jianzhen/) ｜ [结项答辩演示站](https://vbncxm.github.io/dianping-jianzhen/showcase.html)
+
 > 以昆明酒店 OTA 评论为样本，融合文本语义、图文一致与群体行为三层特征，构建「技术清洗 — 动态量化 — 实地验证」闭环，输出评论可信度评分与分区酒店性价比榜单。
 >
 > 云南大学大学生创新训练项目资助（校级，项目编号：20257073）
